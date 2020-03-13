@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6977d68-365c-4475-93cc-2bb62d8ee652" name="Default Changelist" comment="" />
+    <list default="true" id="b6977d68-365c-4475-93cc-2bb62d8ee652" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/2019004400.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPAvancado/superglobais.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicionais.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/criandoFuncoes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for&amp;foreach.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoesNumeros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoesStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operadoresAritmeticos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operadoresComparacao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/switchCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuncoesArrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/FuncoesArrays.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +27,29 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -45,14 +76,16 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UtMdVCLi3Yngqqk3G0OpFBpzEi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.vagrant" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,11 +119,28 @@
       <workItem from="1576600086305" duration="8395000" />
       <workItem from="1582196967877" duration="3324000" />
       <workItem from="1583324389244" duration="1342000" />
-      <workItem from="1584010545003" duration="9862000" />
+      <workItem from="1584010545003" duration="13347000" />
+      <workItem from="1584098014232" duration="3012000" />
+      <workItem from="1584101342960" duration="120000" />
+      <workItem from="1584101482440" duration="160000" />
+      <workItem from="1584101664453" duration="6630000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
